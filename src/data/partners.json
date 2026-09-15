@@ -1,0 +1,62 @@
+[
+  {
+    "slug": "build-corp-eu",
+    "name": "BuildCorp Europe",
+    "logo": "🏗️",
+    "category": "Construction",
+    "location": "Warsaw, Poland",
+    "description": "Leading construction firm specializing in residential and commercial building complexes across Central Europe.",
+    "website": "https://buildcorp-eu.example.com",
+    "vacanciesCount": 3
+  },
+  {
+    "slug": "logi-trans-poland",
+    "name": "LogiTrans Global",
+    "logo": "🚛",
+    "category": "Logistics",
+    "location": "Wroclaw, Poland",
+    "description": "International logistics operator with a fleet of over 500 trucks and modern warehouse terminals.",
+    "website": "https://logitrans.example.com",
+    "vacanciesCount": 2
+  },
+  {
+    "slug": "tech-nordic-labs",
+    "name": "TechNordic Solutions",
+    "logo": "💻",
+    "category": "IT",
+    "location": "Prague, Czech Republic",
+    "description": "Innovative software engineering company developing automation platforms for European industrial clients.",
+    "website": "https://technordic.example.com",
+    "vacanciesCount": 2
+  },
+  {
+    "slug": "alpine-hospitality",
+    "name": "Alpine Resort Group",
+    "logo": "🏨",
+    "category": "Hospitality",
+    "location": "Innsbruck, Austria",
+    "description": "Premium Alpine hotel chain and restaurant group delivering high-end hospitality experiences in ski resorts.",
+    "website": "https://alpineresorts.example.com",
+    "vacanciesCount": 2
+  },
+  {
+    "slug": "euro-auto-logistics",
+    "name": "EuroDriver Fleet",
+    "logo": "🚚",
+    "category": "Drivers",
+    "location": "Berlin, Germany",
+    "description": "Long-distance freight transportation provider serving major routes across Western Europe.",
+    "website": "https://eurodriver.example.com",
+    "vacanciesCount": 2
+  },
+  {
+    "slug": "precision-manu-cz",
+    "name": "Precision Manu CZ",
+    "logo": "⚙️",
+    "category": "Manufacturing",
+    "location": "Brno, Czech Republic",
+    "description": "High-tech manufacturing facility producing automotive components and metal parts for EU automakers.",
+    "website": "https://precisionmanu.example.com",
+    "vacanciesCount": 2
+  }
+]
